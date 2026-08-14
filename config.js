@@ -1,0 +1,18 @@
+export const BOT_CONFIG = {
+  // Meta WhatsApp Cloud API credentials
+  PHONE_NUMBER_ID: "1182119661662374",
+  WABA_ID: "1547748159630308",
+  ACCESS_TOKEN: "EAAjH8CEwW44BSJvoiY1Nsym4lIZAiry8GJ8z3nntZBxiPsJT56rJ4gK4XMtg0xQ18eoo1492Sw1RhdCH3iQCTigIpQ2IKbKbuVIawt24ZARDmvH7lJCNtSSi7yaQoNT0JfonYLVmReL2DhfcINT2H3hhG9itmHlZBDKTD14vPtHEKG0jdZAoU6wb959AX8XgW1EUcJ5MQc9kRoOCg3QqZBxsE4jIMaEZBWnDTwqplkAVI7uAHT6EiSr0ZA8lUVz0bw4DMDsczfy6B80qh7T7Cpqmvxpd5f1e8xNAIgZDZD",
+  VERIFY_TOKEN: "cheezy_treat_webhook_verify_token_2026",
+
+  // Gemini AI Key
+  GEMINI_API_KEY: "AQ.Ab8RN6KGyJWGcBNh1p_ARtRL-cVquxHjkNYbn-8XW_mFp39MIg",
+  GEMINI_MODEL: "gemini-flash-latest",
+
+  // Shop details
+  SHOP_ID: "DNbYbyhHvdNmsnmAUrhC",
+  RESTAURANT_NAME: "Cheezy Treat",
+  DELIVERY_FEE: 100,
+  FREE_DELIVERY_THRESHOLD: 2000,
+  PORT: 3001
+};
