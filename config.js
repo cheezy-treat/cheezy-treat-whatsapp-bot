@@ -7,7 +7,7 @@ export const BOT_CONFIG = {
   VERIFY_TOKEN: 'cheezy_treat_webhook_verify_token_2026',
 
   // Gemini AI Key
-  GEMINI_API_KEY: process.env.GEMINI_API_KEY || 'AQ.Ab8RN6KzVTwc1dYrCD5WJXshaqoV5xou3fgqcfB0FhFpxSgbQQ',
+  GEMINI_API_KEY: process.env.GEMINI_API_KEY || "AQ.Ab8RN6JZSY7mN4b5ioFxWxHa92ZMYwRAMb2SPz0PT0u94AX9lg",
   GEMINI_MODEL: 'gemini-flash-latest',
 
   // Shop details
